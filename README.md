@@ -1,5 +1,5 @@
 # Password-App
- 1. Overview 
+ #1. Overview 
 The password manager is a program that helps save and retrieve passwords securely. It uses strong encryption to make sure no one can read stored passwords without the master password. 
  2. Key Features
 - Save a master password securely using hashing.
