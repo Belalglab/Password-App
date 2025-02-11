@@ -22,5 +22,3 @@ First, it asks for a master password and saves it securely.
 - Each password has unique encryption data.
 6. Conclusion
 This password manager is a simple and effective tool for keeping passwords safe. Future versions could include backups or a better user interface to make it more useful.
-
-![image](https://github.com/user-attachments/assets/5041a506-82b9-4047-8fbd-6bd432d7bf54)
